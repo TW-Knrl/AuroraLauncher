@@ -1,20 +1,3 @@
-"# riseclient-netlify" 
-"# riseclient-netlify" 
-"Start" 
-"# TW-Knrl" 
-"# TW-Knrl" 
-"# KFNLauncher" 
-"# DiscordModding" 
-"# TW-Index" 
-"# TW-Index" 
-"# Aurora-V2" 
-"# AuroraV2-VercelSite" 
-"# Aurora-Site" 
-"# astralfn.github.io" 
-"# astralfn.github.io" 
-"# astralfn.github.io" 
-"# astralfn.github.io" 
-"# AuroraBackend" 
-"# AuroraBackend" 
-"# AuroraLauncher-API" 
-"# AuroraLauncher" 
+# Launcher
+
+You can use it if you want, just give credits and fix it <3
